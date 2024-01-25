@@ -1,2 +1,2 @@
 # CRYPTO
-암호 Quiz 업로드입니다.
+암호 Sagemath Quiz 업로드입니다.
